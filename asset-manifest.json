@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KevinMisati/expense-tracke/static/css/main.295a99c0.chunk.css",
+    "main.js": "/KevinMisati/expense-tracke/static/js/main.36f07a18.chunk.js",
+    "main.js.map": "/KevinMisati/expense-tracke/static/js/main.36f07a18.chunk.js.map",
+    "runtime-main.js": "/KevinMisati/expense-tracke/static/js/runtime-main.b4d1a2eb.js",
+    "runtime-main.js.map": "/KevinMisati/expense-tracke/static/js/runtime-main.b4d1a2eb.js.map",
+    "static/js/2.c751742a.chunk.js": "/KevinMisati/expense-tracke/static/js/2.c751742a.chunk.js",
+    "static/js/2.c751742a.chunk.js.map": "/KevinMisati/expense-tracke/static/js/2.c751742a.chunk.js.map",
+    "static/js/3.76f8659c.chunk.js": "/KevinMisati/expense-tracke/static/js/3.76f8659c.chunk.js",
+    "static/js/3.76f8659c.chunk.js.map": "/KevinMisati/expense-tracke/static/js/3.76f8659c.chunk.js.map",
+    "index.html": "/KevinMisati/expense-tracke/index.html",
+    "static/css/main.295a99c0.chunk.css.map": "/KevinMisati/expense-tracke/static/css/main.295a99c0.chunk.css.map",
+    "static/js/2.c751742a.chunk.js.LICENSE.txt": "/KevinMisati/expense-tracke/static/js/2.c751742a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4d1a2eb.js",
+    "static/js/2.c751742a.chunk.js",
+    "static/css/main.295a99c0.chunk.css",
+    "static/js/main.36f07a18.chunk.js"
+  ]
+}
