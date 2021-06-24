@@ -1,0 +1,24 @@
+.list-item{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    background: #fff;
+    padding: .5rem 1rem;
+    border-right: 5px solid #2ecc71;
+    margin: .5rem 0;
+    position: relative;
+}
+.list-item button{
+    position: absolute;
+    transform: translateX(-185%) translateY(-14%);
+    cursor: pointer;
+    border: 0;
+    opacity: 0;
+    background: 0;
+    padding: .3rem;
+    align-items: center;
+    background-color: #e74c3c;
+}
+.list-item:hover button, button:hover{
+    opacity: 1;
+}

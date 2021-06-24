@@ -1,0 +1,16 @@
+.App {
+  
+  width: 90%;
+  color: green;
+  width: auto;
+  max-width: 450px;
+}
+
+@media screen and  (min-width:780px){
+  .App{
+    max-width: 350px;
+  }
+}
+
+
+

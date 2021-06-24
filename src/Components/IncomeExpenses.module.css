@@ -1,0 +1,12 @@
+.income-expenses{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    margin: 1rem 0;
+    text-transform: uppercase;
+    background: white;
+    box-shadow: 2px 2px 3px gray;
+}
+.income-expenses h4{
+    margin: .5rem 0;
+}

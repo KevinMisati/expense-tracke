@@ -1,0 +1,31 @@
+.control{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 0 0 0;
+}
+.btn{
+   cursor: pointer;
+    background-color: #9c88ff;
+    box-shadow: var(--box-shadow);
+    color: #fff;
+    border: 0;
+    display: block;
+    font-size: 16px;
+    margin: 10px 0 30px;
+    padding: 10px;
+    width: 100%;
+    margin: 2rem 0 0 0;
+}
+.control button:active,button:focus{
+    border: none;
+    outline: none;
+}
+.control input {
+    padding: .5rem 1rem;
+    border: 1px solid #dedede;
+}
+.control input:active,input:focus{
+    
+     border: 1px solid #dedede;
+     outline: none;
+}
